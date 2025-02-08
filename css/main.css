@@ -73,6 +73,11 @@ nav {
 		}
 	}
 }
+
+.img-mobile{
+	width: 100%;
+}
+
 .wrapper-text {
 	position: relative;
 	height: 72vh;
